@@ -22,35 +22,35 @@ const App = () => {
                         {
                             /* Budget component */
                             <div className='col-sm'>
-                                <Budget />
+                                <Budget /><br/>
                             </div>
                         }        
 
                         {
                             /* Remaining component */
                             <div className='col-sm'>
-                                <Remaining />
+                                <Remaining /><br/>
                             </div>
                         }        
 
                         {
                             /* ExpenseTotal component */
                             <div className='col-sm'>
-                                <ExpenseTotal />
+                                <ExpenseTotal /><br/>
                             </div>
                         }        
                        
                         {
                             /* ExpenseList component */
                             <div className='col-sm'>
-                                <ExpenseList />
+                                <ExpenseList /><br/>
                             </div>
                         }         
 
                         {
                             /* ExpenseItem component */
                             <div className='col-sm'>
-                                <ExpenseItem />
+                                <ExpenseItem /><br/>
                             </div>
                         }        
 
